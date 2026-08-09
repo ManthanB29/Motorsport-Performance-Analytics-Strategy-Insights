@@ -1,4 +1,4 @@
-# Formula 1 World Championship — Exploratory Data Analysis (1950–2024)
+# Motorsport Performance Analytics & Strategy Insights (Formula 1) — Exploratory Data Analysis (1950–2024)
 
 A comprehensive exploratory data analysis of 75 years of Formula 1 racing — covering 1,100+ races, 800+ drivers, and 200+ constructors across 9 interconnected datasets. The goal was to move beyond surface-level leaderboards and uncover the structural patterns that actually determine performance, consistency, and dominance in F1.
 
